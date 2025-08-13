@@ -26,4 +26,5 @@ streamlit run app.py
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/flight-in-sight.git
+   git clone https://github.com/FrancisRockyDcruze/flight-in-sight.git
+
