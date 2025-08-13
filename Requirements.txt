@@ -1,0 +1,23 @@
+1. Name: pandas
+Version: 2.3.1 
+Summary: Powerful data structures for data analysis, time series, and statistics
+
+2. Name: streamlit
+Version: 1.48.0
+Summary: A faster way to build and share data apps
+
+3. Name: altair
+Version: 5.5.0
+Summary: Vega-Altair: A declarative statistical visualization library for Python.
+
+4. Name: requests
+Version: 2.32.4
+Summary: Python HTTP for Humans.
+
+5. OpenSky API
+
+
+```bash
+pip install pandas streamlit altair requests
+
+
